@@ -1,2 +1,2 @@
-# my_project1
+# Cousera Python Practice
 Python practice work
